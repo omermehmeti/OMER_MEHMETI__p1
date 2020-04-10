@@ -35,9 +35,7 @@ def COUNT(tekstiDhene):
 
 
     return str('Teksti i future ka '+str(counteriZ) +' zanore dhe '+str(counteriB)+' bashketingellore' )
-def PRINTIMI(fjaliaHyrese):
-    fjaliaHyrese=str(fjaliaHyrese).strip()
-    return str(fjaliaHyrese)
+
 def REVERSE(s): 
     return s[::-1] 
 def TIME():
